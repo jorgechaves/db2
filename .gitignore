@@ -1,0 +1,16 @@
+# Ambiente e credenciais
+.env
+
+# Ambiente virtual Python
+venv/
+
+# PDFs gerados
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
